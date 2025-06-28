@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Sobia!
 
 🎓 **Bachelor's in Information Technology (BSIT)**  
-💻 **Web Developer** | 🖌️ **Graphic Designer** | 📝 **MS Office Expert** | 🎬 **Video Editor** | 🌍 **Online Tourist Guide**  
+💻 **Web Developer** | 🖌️ **Graphic Designer** | 📝 **MS Office Expert** | 🎬 **Video Editor** 
 🚀 **Challenge Seeker** | 🌱 Always learning and growing
 
 ---
