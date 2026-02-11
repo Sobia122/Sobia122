@@ -1,31 +1,65 @@
-# 👋 Hi there, I'm Sobia!
+Perfect 👍 I’ll make it stronger and clearly highlight Python + React professionally.
 
-🎓 **Bachelor's in Information Technology (BSIT)**  
-💻 **Web Developer** | 🖌️ **Graphic Designer** | 📝 **MS Office Expert** | 🎬 **Video Editor** | 🤖 **AI Enthusiast**  
-🚀 **Challenge Seeker** | 🌱 Always learning and growing
----
+Here’s your upgraded Web Developer-focused version:
 
-## About Me
-I'm an enthusiastic and multi-talented professional with a BS in IT, passionate about creating digital solutions that make life and travel easier. My expertise spans web development, graphic designing, MS Office, and video editing. I am also highly interested in Artificial Intelligence and love using AI to create innovative solutions—if you can imagine it, I can make it happen with AI! As an online tourist guide, I enjoy helping people explore new destinations through technology and creativity. I thrive on challenges and am dedicated to continuous learning and growth.
----
+👋 Hi, I'm Sobia Liaqat
 
-## 🛠️ Skills
-- **Web Development:** HTML, CSS, JavaScript, React, Django, Bootstrap, jQuery, PHP, MySQL
-- **Graphic Designing:** Adobe Photoshop, Adobe Illustrator, CorelDRAW, Canva, Figma
-- **MS Office:** Word, Excel, PowerPoint, Access, Outlook, Publisher
-- **Video Editing:** Adobe Premiere Pro, After Effects, Camtasia, Filmora, InShot, CapCut
-- **Artificial Intelligence:** ChatGPT, Midjourney, DALL·E, Bard, AI Content Creation, AI Image Generation
-- **IT Solutions & Consulting**
----
+🎓 BS in Information Technology (BSIT)
+💻 Full Stack Web Developer (React | Python | PHP)
+🚀 Building scalable, responsive, and high-performance web applications
 
-## 🌟 Fun Fact
-I love taking on new challenges and turning creative ideas into impactful projects—especially when they help travelers discover the world, businesses grow online, or showcase the limitless potential of AI!
----
+💼 About Me
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sobialiaqat/)
----
+I am a passionate Full Stack Web Developer with strong experience in both frontend and backend technologies. I specialize in building dynamic, responsive, and SEO-optimized web applications using modern frameworks and clean coding practices.
 
-<!--
-Feel free to customize this README further with your favorite projects, tech stack badges, or more personal details!
--->
+I enjoy solving real-world problems through technology — from creating intuitive user interfaces with React to developing powerful backend systems using Python, Django, and PHP.
+
+I focus on writing efficient, scalable, and maintainable code while continuously improving my technical expertise.
+
+🛠️ Technical Skills
+🌐 Frontend Development
+
+HTML5, CSS3, JavaScript
+
+React.js
+
+Bootstrap
+
+jQuery
+
+Responsive Web Design
+
+⚙️ Backend Development
+
+Python
+
+Django
+
+PHP
+
+Laravel
+
+🗄️ Database
+
+MySQL
+
+🎨 UI & Prototyping
+
+Figma
+
+🚀 Core Strengths
+
+✔ Clean and structured code
+✔ Component-based development (React)
+✔ Backend API development (Python/Django, PHP/Laravel)
+✔ Database design and integration
+✔ SEO-friendly & optimized websites
+✔ Full Stack project development
+
+📂 Portfolio
+
+🔗 https://sobia122.github.io/Sobia-Liaqat-portfolio/
+
+📫 Let’s Connect
+
+🔗 LinkedIn: https://www.linkedin.com/in/sobialiaqat/
