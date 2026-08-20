@@ -1,65 +1,20 @@
-Perfect 👍 I’ll make it stronger and clearly highlight Python + React professionally.
+# Hi, I'm Sobia Liaqat 👋
+### Full Stack Web Developer & AI Enthusiast
 
-Here’s your upgraded Web Developer-focused version:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sobialiaqat/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://sobia122.github.io/Sobia-Liaqat-portfolio/)
 
-👋 Hi, I'm Sobia Liaqat
+---
 
-🎓 BS in Information Technology (BSIT)
-💻 Full Stack Web Developer (React | Python | PHP)
-🚀 Building scalable, responsive, and high-performance web applications
+### 🛠️ Tech Stack
+* **Languages:** JavaScript, Python, PHP, HTML/CSS
+* **Frameworks:** React.js, Django, Laravel, Bootstrap
+* **Databases & Tools:** MySQL, Git, GitHub, Figma
 
-💼 About Me
+---
 
-I am a passionate Full Stack Web Developer with strong experience in both frontend and backend technologies. I specialize in building dynamic, responsive, and SEO-optimized web applications using modern frameworks and clean coding practices.
-
-I enjoy solving real-world problems through technology — from creating intuitive user interfaces with React to developing powerful backend systems using Python, Django, and PHP.
-
-I focus on writing efficient, scalable, and maintainable code while continuously improving my technical expertise.
-
-🛠️ Technical Skills
-🌐 Frontend Development
-
-HTML5, CSS3, JavaScript
-
-React.js
-
-Bootstrap
-
-jQuery
-
-Responsive Web Design
-
-⚙️ Backend Development
-
-Python
-
-Django
-
-PHP
-
-Laravel
-
-🗄️ Database
-
-MySQL
-
-🎨 UI & Prototyping
-
-Figma
-
-🚀 Core Strengths
-
-✔ Clean and structured code
-✔ Component-based development (React)
-✔ Backend API development (Python/Django, PHP/Laravel)
-✔ Database design and integration
-✔ SEO-friendly & optimized websites
-✔ Full Stack project development
-
-📂 Portfolio
-
-🔗 https://sobia122.github.io/Sobia-Liaqat-portfolio/
-
-📫 Let’s Connect
-
-🔗 LinkedIn: https://www.linkedin.com/in/sobialiaqat/
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sobia122&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sobia122&layout=compact&theme=dark" width="48%" />
+</p>
